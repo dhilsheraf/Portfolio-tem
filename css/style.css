@@ -859,3 +859,8 @@
       .footer-bottom-inner p {
         font-size: 14px;
         margin-bottom: 20px; } }
+.nav{
+          text-decoration: none;
+          color: white;
+          font-size: medium;
+        }
