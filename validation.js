@@ -26,6 +26,3 @@ function validation(){
     }
     return true;
 }
-
-    return true;
-}
