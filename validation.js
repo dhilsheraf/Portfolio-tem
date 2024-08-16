@@ -15,6 +15,7 @@ function validation(){
         alert("Enter E-mail ID");
         return false;
     }
+    
     if(result==false){
         alert("Invalid E-mail ID");
         return false;
@@ -23,5 +24,8 @@ function validation(){
         alert("Please enter your message")
         return false;
     }
+    return true;
+}
+
     return true;
 }
